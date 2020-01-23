@@ -134,3 +134,33 @@ nav {
 }
 
 /* ------- css navigation bar end------ */
+
+/* ----> registrasi <---- */
+
+.one{
+    width: 30%;
+    background-color: goldenrod;
+    padding: 1em;
+    margin-left: 25em;
+    text-align: center;
+}
+
+
+input{
+    padding: 10px;
+    text-align: left;
+    margin: 10px;
+    width: 80%;
+}
+
+.zero{
+    height: 450px;
+    margin-top: 100px;
+
+}
+
+.two{
+    width: 86%;
+    height: 3em;
+}
+/* ----> end registrasi <---- */
