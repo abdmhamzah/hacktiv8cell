@@ -1,53 +1,6 @@
-/* Halaman Home */
-html,body{
-    margin: 0;
-    padding: 0;
-
-}
-body{
-    background: url("iphone.jpg");
-    background-size: cover;
-    
-}
-h1{
-    text-align: center;
-    font-family: "Sans serif";
-    color: black;
-    font-weight: bold;
-    font-size: 60px;
-    text-align: center;
-}
-h2{
-    font-weight: 600px;
-    color: yellowgreen;
-    letter-spacing: 20px;
-    color: red; 
-    font-size: 70px;
-    margin-top: 20px;
-
-    
-}
-footer{
-    margin-bottom: 0px;
-    background: goldenrod;
-    background-size: 50px;
-    text-align: center;
-    font-family: "Sans Serif" ;
-    padding: 0 10px;
-    margin-top: 100px;
-    letter-spacing: 15px;
-    font-size: 20px;
-    
-}
-p{
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-    letter-spacing: 6px;
-
-}
-section{
-    text-align: center;
+/* NAVIGATION BAR */
+body {
+    margin: 0px;
 }
 
 /* NAVIGATION BAR */
@@ -125,3 +78,42 @@ nav {
 }
 
 /* ------- css navigation bar end------ */
+
+/* CATALOG */
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: #947631;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    font-size: 28px;
+}
+.box {
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 30px;
+    padding: 20px;
+    font-size: 15pt;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.prod {
+    font-family: sans-serif;
+    text-align: center;
+    color: #947631;
+    margin: 0px
+}
+
+.harga {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0px;
+    font-size: 15px;
+    color: black;
+}
