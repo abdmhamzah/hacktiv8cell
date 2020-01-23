@@ -1,0 +1,197 @@
+
+#barbar {
+    margin: 0 auto;
+    background-color: white;
+}
+
+
+/* NAVIGATION BAR */
+nav {  
+    
+    width: 100%; 
+    height: 80px; 
+    background-color: #c7a045;
+    overflow: hidden;
+}
+
+.kanan:hover {
+    background-color: #947631;   
+}
+
+.kanan {
+    display: block;
+    float: right;
+    font-family: sans-serif;
+    font-size: 9fr;
+    text-decoration: none;
+    color: #ffffff;
+    padding-top: 30px;    
+    padding-right: 10px;    
+    padding-bottom: 32px;    
+    padding-left: 10px;
+    overflow: hidden;
+}  
+
+.kiri:hover {
+    background-color: #947631;   
+}
+
+.kiri {
+    display: block;
+    float: left;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    padding-top: 23px;    
+    padding-right: 30px;    
+    padding-bottom: 32px;    
+    padding-left: 30px;
+    overflow: hidden;
+}  
+
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 23px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    font-size: 17px;
+}
+
+.button {
+    display: inline-block;
+    float: right;
+    border: none;
+    font-family: sans-serif;
+    font-size: 9fr;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #947631;
+    color: #ffffff;
+    padding: 6px 28px;
+    margin-top: 23px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+/* main content */
+
+
+
+
+
+main {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.dd main {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.aa {
+    margin: 30px;
+}
+
+
+.bb .cc .dd {
+    display: inline-block;
+    
+}
+
+.bb img {
+    padding: 0 10px 30px 10px;
+    margin:0;
+}
+.bb {
+    float: left;
+    background-color: white;
+    background-size: 310px;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 400px;
+    padding: 10px;
+    margin: 11px;
+    border
+    
+}
+
+.cc {
+    float: left;
+    background-color: ;
+    background-size: 310px;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 400px;
+    padding: 10px;
+    margin: 11px;
+    
+}
+
+.dd {
+    float: left;
+    background-color: white;
+    background-size: 310px;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 400px;
+    padding: 10px;
+    margin: 11px;
+}
+
+
+.a2 {
+    display: inline-block;
+    background-color: white;
+    width: 600px;
+    height: 300px;
+    margin: 30px;
+} 
+
+.foot {
+    background-color: #c7a045;
+    width: 100%;
+    height: 70px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+/* ----> registrasi <---- */
+
+.one{
+    width: 30%;
+    background-color: goldenrod;
+    padding: 1em;
+    margin-left: 27em;
+    text-align: center;
+}
+
+
+.three{
+    padding: 10px;
+    text-align: left;
+    margin: 5px;
+    width: 80%;
+}
+
+.zero{
+    height: 450px;
+    padding-top: 10px;
+    padding-bottom: 80px;
+
+}
+
+.two{
+    width: 86%;
+    height: 3em;
+}
+/* ----> end registrasi <---- */
