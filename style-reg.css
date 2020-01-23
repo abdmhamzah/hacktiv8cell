@@ -169,10 +169,10 @@ main {
 
 .one{
     width: 30%;
-    background-color: goldenrod;
     padding: 1em;
     margin-left: 27em;
     text-align: center;
+    border: 1px solid darksalmon;
 }
 
 
