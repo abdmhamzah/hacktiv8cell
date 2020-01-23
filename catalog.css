@@ -117,3 +117,14 @@ img {
     font-size: 15px;
     color: black;
 }
+
+.foot {
+    background-color: #c7a045;
+    width: 100%;
+    height: 70px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    margin-top: 570px;
+}
