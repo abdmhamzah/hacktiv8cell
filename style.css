@@ -4,10 +4,13 @@
     font-family: sans-serif;
 }
 
-.thank-you nav, li{
-    display: inline;
-    float: right;
-    width: 30%;
+nav a:link{
+    color: white;
+}
+
+a:link{
+    color: #A52A2A;
+    text-decoration: none;
 }
 
 .thank-you header{
@@ -22,6 +25,7 @@
 
 .thank-you footer{
     background-color: #C7A045;
+    color: white;
     text-align: center;
     width: 100%;
     height: 40px;
@@ -40,10 +44,12 @@
     text-align: center;
     margin-top: 200px;
     background-color: #FFFAF0;
+    color: #A52A2A;
 }
 
 .thank-you h2{
     font-size: xx-large;
+    color: #A0522D;
 }
 
 .continue {
