@@ -1,53 +1,68 @@
-/* Halaman Home */
-html,body{
-    margin: 0;
-    padding: 0;
-
-}
+/* Thank You */
 body{
-    background: url("iphone.jpg");
-    background-size: cover;
-    
+    margin: 0px;
+    background-color: #FFF0F5;
+    font-family: sans-serif;
 }
-h1{
-    text-align: center;
-    font-family: "Sans serif";
-    color: black;
-    font-weight: bold;
-    font-size: 60px;
-    text-align: center;
-}
-h2{
-    font-weight: 600px;
-    color: yellowgreen;
-    letter-spacing: 20px;
-    color: red; 
-    font-size: 70px;
-    margin-top: 20px;
 
-    
+nav a:link{
+    color: white;
 }
+
+nav a:visited{
+    color: white;
+}
+
+a:link{
+    color: #A52A2A;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #A52A2A;
+    text-decoration: none;
+}
+
+header{
+    background-color: #C7A045;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    z-index: 10;
+    top: 0px;
+    left: 0px;
+}
+
 footer{
-    margin-bottom: 0px;
-    background: goldenrod;
-    background-size: 50px;
+    background-color: #C7A045;
+    color: white;
     text-align: center;
-    font-family: "Sans Serif" ;
-    padding: 0 10px;
-    margin-top: 100px;
-    letter-spacing: 15px;
-    font-size: 20px;
-    
+    width: 100%;
+    height: 40px;
+    margin-top: 150px;
 }
-p{
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-    letter-spacing: 6px;
 
+h5{
+    line-height: 40px;
+}
+
+hr{
+    color: #8B4513;
 }
 section{
     text-align: center;
+    margin-top: 215px;
+    background-color: #FFFAF0;
+    color: #A52A2A;
+}
+
+h2{
+    font-size: xx-large;
+    color: #A0522D;
+}
+
+.continue {
+    font-size: small;
 }
 
 /* NAVIGATION BAR */
@@ -125,34 +140,3 @@ nav {
 }
 
 /* ------- css navigation bar end------ */
-
-/* ----> registrasi <---- */
-
-.one{
-    width: 30%;
-    background-color: goldenrod;
-    padding: 1em;
-    margin-left: 25em;
-    text-align: center;
-}
-
-
-input{
-    padding: 10px;
-    text-align: left;
-    margin: 5px;
-    width: 80%;
-}
-
-.zero{
-    height: 450px;
-    padding-top: 100px;
-    padding-bottom: 20px;
-
-}
-
-.two{
-    width: 86%;
-    height: 3em;
-}
-/* ----> end registrasi <---- */
